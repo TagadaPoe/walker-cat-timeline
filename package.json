@@ -1,0 +1,24 @@
+{
+  "name": "walker-cat-timeline",
+  "version": "1.0.0",
+  "description": "a web ui for displaying time-related social events",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev" : "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TagadaPoe/walker-cat-timeline.git"
+  },
+  "author": "pcastets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TagadaPoe/walker-cat-timeline/issues"
+  },
+  "homepage": "https://github.com/TagadaPoe/walker-cat-timeline#readme"
+}
